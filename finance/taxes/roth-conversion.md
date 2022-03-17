@@ -21,6 +21,9 @@ was tax year vs. actual year:
 on a current-year basis, i.e. it will show up on my 2022 taxes. ([source][hr-link])
 
 
+
+### Footnotes:
+
 <a name="whyroth">1</a>: I think wanting Roth monies over Traditional is not a foregone conclusion, since it assumes 
 your tax bracket is going to be higher in retirement than now, i.e. you're paying now to avoid paying more later.  That
 said, I know a lot of people who avoid Roth on the grounds that they think they can figure out clever ways to reduce their
