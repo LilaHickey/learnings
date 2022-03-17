@@ -1,7 +1,7 @@
 # ESPP Sales
 
-I sell my stock on the grant date, because it's the only way to guarantee making a heavy profit (since ESPPs offer them)
-at a notable discount.  The tax ramifications break down into two logical entities:
+I sell my stock on the grant date, because it's the only way to guarantee making a worthwhile profit (since ESPPs offer them
+at a notable discount).  The tax ramifications break down into two logical entities:
 
 - short-term capital gains 
 - ordinary income 
